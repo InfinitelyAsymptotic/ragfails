@@ -1,0 +1,197 @@
+ACME CORPORATION
+Q1 2024 EARNINGS CALL TRANSCRIPT
+April 25, 2024
+
+PARTICIPANTS:
+- Sarah Chen, CEO
+- Michael Roberts, CFO
+- Jessica Park, VP of Investor Relations
+- Analysts from various institutions
+
+================================================================================
+
+Jessica Park (VP Investor Relations):
+
+Good afternoon, and welcome to ACME Corporation's First Quarter 2024 Earnings Conference Call.
+I'm Jessica Park, VP of Investor Relations. Joining me today are Sarah Chen, our Chief Executive
+Officer, and Michael Roberts, our Chief Financial Officer.
+
+Before we begin, I'd like to remind you that during this call, we will make forward-looking
+statements regarding our business outlook and future financial performance. Please refer to the
+safe harbor statement in our earnings release for more information.
+
+I'll now turn the call over to Sarah.
+
+================================================================================
+
+Sarah Chen (CEO):
+
+Thank you, Jessica, and good afternoon, everyone. I'm thrilled to report another exceptional
+quarter for ACME Corporation. Q1 2024 was a landmark quarter that exceeded our expectations
+across all key metrics.
+
+Let me start with the headline: we delivered outstanding revenue growth while significantly
+expanding our margins and accelerating our path to sustainable profitability. But what I'm most
+excited about is the momentum we're seeing in the business and the validation of our strategic
+vision.
+
+Now, let me address the revenue growth that everyone's interested in. When we look at our Q1
+performance, I want to be crystal clear about what we achieved and why it matters. Our revenue
+came in at $642 million, which represents phenomenal growth. But here's what's really important -
+and this is something I want to emphasize - when you look at the underlying drivers of this growth,
+you see a business that's firing on all cylinders.
+
+We grew revenue by approximately 15% year-over-year. Now, I know some of you might look at that
+number and think "that's good, but not spectacular." But let me give you the context that matters.
+This growth was broad-based across all our product lines, all geographic regions, and most
+importantly, it came with exceptional margin expansion. We're not buying growth - we're earning it
+through product excellence and operational discipline.
+
+What's particularly impressive - and this is where I get really excited - is that this 15%
+year-over-year growth actually accelerated from Q4, where we grew 12% year-over-year. So we're
+seeing acceleration in the business, not deceleration. That's the trend that matters.
+
+And when I talk to our largest customers, what they tell me is that we're still in the early
+innings of their AI transformation journey. Our enterprise AI platform isn't just another product
+for them - it's becoming mission-critical infrastructure. We're seeing deal sizes expand, we're
+seeing faster deployment cycles, and we're seeing customers who started with one use case now
+rolling out our platform across their entire organization.
+
+Let me share a specific example that illustrates our momentum. In Q1, we closed our largest deal
+ever - a $12 million annual contract with a Fortune 100 healthcare company. This customer started
+with a small pilot just nine months ago. They've now standardized on our platform across 15
+different business units. That's the kind of expansion we're seeing across our customer base, and
+it's why our net revenue retention rate is at 118%.
+
+On the product front, we made significant advances in Q1. We launched version 3.0 of our enterprise
+AI platform, which includes breakthrough capabilities in multi-modal AI and real-time decision
+intelligence. The early customer feedback has been phenomenal. We're seeing adoption rates 2-3x
+faster than our previous major release.
+
+We also made strategic investments in our international expansion. We opened new offices in London
+and Singapore, and we're seeing tremendous traction in those markets. Europe grew 18% year-over-year,
+and Asia-Pacific grew an impressive 21%. These markets represent enormous long-term opportunities,
+and we're investing to win.
+
+Now, let me talk about profitability, because this is where the story gets even better. We
+expanded our gross margin to 50%, up from 46% a year ago. This isn't just about scale - it's
+about the fundamental strength of our business model. We're proving that you can grow fast and
+expand margins simultaneously when you have truly differentiated technology.
+
+Our operating margin also improved significantly. We're demonstrating real operating leverage as
+we scale. Every dollar of incremental revenue is more profitable than the last, and that's exactly
+the trajectory investors should want to see.
+
+On the cash flow front, we generated $68.5 million in operating cash flow, up 63% year-over-year.
+This strong cash generation gives us tremendous flexibility to invest in growth while maintaining
+a fortress balance sheet with over $600 million in total liquidity.
+
+Looking ahead, I've never been more confident in our strategy and execution. The market opportunity
+is massive - we estimate the total addressable market for enterprise AI is over $300 billion and
+growing rapidly. We have best-in-class technology, an exceptional team, and strong customer
+momentum.
+
+For Q2, we expect revenue in the range of $665-$680 million, representing 13-16% year-over-year
+growth. For the full year, we're raising our revenue guidance to $2.75-$2.80 billion, up from our
+previous guidance. This implies roughly 16-18% growth for the full year, with continued margin
+expansion.
+
+But here's what I want to leave you with: the numbers are strong, but they don't fully capture
+the transformation happening in our business. We're becoming the mission-critical AI infrastructure
+for the world's most sophisticated enterprises. We're solving problems that no one else can solve.
+And we're doing it profitably, with strong unit economics and a clear path to even greater
+profitability.
+
+The opportunity ahead of us is enormous, and I'm confident we have the right strategy, the right
+team, and the right technology to capitalize on it.
+
+With that, I'll turn it over to Michael to walk through the financial details.
+
+================================================================================
+
+Michael Roberts (CFO):
+
+Thanks, Sarah. I'll provide additional detail on our Q1 financial performance and then open it
+up for questions.
+
+As Sarah mentioned, we delivered $642 million in total revenue, up 14.5% year-over-year. To break
+that down further:
+
+Product revenue was $485.2 million, up 17.7% year-over-year. This was driven primarily by our
+enterprise AI platform, which grew over 35% year-over-year. We're seeing particularly strong demand
+in the healthcare and financial services verticals.
+
+Service revenue was $156.8 million, up 5.8% year-over-year. While this grew more slowly than product
+revenue, this is actually a positive indicator - it shows that our platform is becoming more
+self-service and easier to deploy, which improves our unit economics.
+
+From a geographic perspective, North America represented 60% of revenue and grew 12% year-over-year.
+International was 40% of revenue and grew 19% year-over-year. We're successfully diversifying our
+revenue base geographically, which reduces concentration risk and expands our market opportunity.
+
+Our customer metrics remain extremely strong. We ended Q1 with 12,450 total customers, up 14%
+year-over-year. More importantly, our enterprise customer count - customers paying more than $100,000
+annually - grew 24% to 890 customers. These enterprise customers now represent over 70% of our total
+revenue, up from 65% a year ago. This shift toward larger customers improves our revenue quality and
+predictability.
+
+Net revenue retention was 118%, consistent with the last several quarters. This metric is particularly
+important because it shows that our existing customers are expanding their usage significantly. A
+retention rate above 110% is generally considered best-in-class for enterprise software.
+
+[Financial details continue...]
+
+I'll now open it up for questions.
+
+================================================================================
+
+QUESTION AND ANSWER SESSION
+
+Analyst 1 (Goldman Sachs):
+
+Thanks for taking my question. Sarah, you mentioned 15% year-over-year revenue growth in your
+prepared remarks, but the 10-Q shows 14.5%. Can you clarify the difference, and what's driving
+the acceleration you mentioned?
+
+Sarah Chen (CEO):
+
+Great question. When I said "approximately 15%," I was rounding for ease of communication. The
+precise number is 14.5%, as stated in our 10-Q filing. The key point I wanted to emphasize is that
+we're seeing acceleration on a sequential basis - Q4 was 12% year-over-year, and Q1 was 14.5%.
+That's 250 basis points of acceleration, which is significant and reflects the strengthening demand
+environment and our strong execution.
+
+The drivers of this acceleration are multiple: first, we're seeing larger deal sizes as AI adoption
+moves from pilots to production deployments. Second, our sales productivity improved significantly -
+our quota-carrying reps are closing deals faster and at higher average contract values. Third, we're
+benefiting from the product enhancements we made in late 2023, which are driving higher win rates.
+
+So while the absolute number is 14.5%, the trend is what matters most, and that trend is very
+positive.
+
+Analyst 2 (Morgan Stanley):
+
+Following up on that, how should we think about the sustainability of this growth rate? Can you
+maintain this level of growth as you scale?
+
+Sarah Chen (CEO):
+
+That's the key question, right? Look, we're not immune to the law of large numbers - at some point,
+as we get bigger, maintaining high growth rates becomes more challenging mathematically. However,
+I'd point to several factors that give me confidence in sustained growth:
+
+First, our market is huge and growing. Enterprise AI spend is projected to grow at over 30% CAGR
+for the next five years. We're well-positioned in that market with differentiated technology.
+
+Second, we're still massively underpenetrated. Even among our existing enterprise customers, the
+average customer is using our platform for only 2-3 use cases. We see opportunity to expand to
+10-15 use cases per customer. That expansion opportunity alone could drive significant growth.
+
+Third, we're investing heavily in innovation. We have several major product initiatives in our
+pipeline that will open up new market segments and use cases.
+
+So while I can't promise we'll maintain exactly 15% growth forever, I'm highly confident we can
+sustain double-digit growth for the foreseeable future while continuing to expand margins. That's
+a rare combination in enterprise software, and it's what makes our business model so compelling.
+
+[Q&A continues...]

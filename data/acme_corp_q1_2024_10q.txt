@@ -1,0 +1,118 @@
+ACME CORPORATION
+QUARTERLY REPORT (FORM 10-Q)
+For the Quarter Ended March 31, 2024
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+
+Three Months Ended March 31,
+                                          2024         2023
+Revenue:
+  Product revenue                      $485,200     $412,300
+  Service revenue                      $156,800     $148,200
+  Total revenue                        $642,000     $560,500
+
+Cost of revenue:
+  Cost of product revenue              $242,600     $226,590
+  Cost of service revenue              $78,400      $74,100
+  Total cost of revenue                $321,000     $300,690
+
+Gross profit                           $321,000     $259,810
+
+Operating expenses:
+  Research and development             $89,400      $78,300
+  Sales and marketing                  $112,800     $98,200
+  General and administrative           $45,600      $42,100
+  Total operating expenses             $247,800     $218,600
+
+Operating income                       $73,200      $41,210
+
+Other income (expense):
+  Interest income                      $3,200       $1,800
+  Interest expense                     ($8,400)     ($7,200)
+  Other, net                           $1,200       ($600)
+  Total other expense, net             ($4,000)     ($6,000)
+
+Income before income taxes             $69,200      $35,210
+
+Provision for income taxes             $17,300      $8,803
+
+Net income                             $51,900      $26,407
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+RESULTS OF OPERATIONS
+
+Revenue
+
+Our total revenue for Q1 2024 was $642.0 million, representing an increase of $81.5 million, or 14.5%,
+compared to $560.5 million for Q1 2023. This growth was primarily driven by:
+
+1. Product Revenue Growth: Product revenue increased by $72.9 million, or 17.7%, from $412.3 million
+   in Q1 2023 to $485.2 million in Q1 2024. The increase was primarily attributable to:
+   - Strong demand for our enterprise AI platform, which contributed $45 million in incremental revenue
+   - Expansion in the healthcare vertical, adding $18 million
+   - Growth in our cloud infrastructure offerings, contributing $9.9 million
+
+2. Service Revenue Growth: Service revenue increased by $8.6 million, or 5.8%, from $148.2 million
+   in Q1 2023 to $156.8 million in Q1 2024. This was driven by:
+   - Professional services associated with new enterprise deployments
+   - Increased customer success and training engagements
+
+Geographic Revenue Analysis:
+- North America: $385.2 million (60% of total, up 12% year-over-year)
+- Europe: $160.1 million (25% of total, up 18% year-over-year)
+- Asia-Pacific: $96.7 million (15% of total, up 21% year-over-year)
+
+Customer Metrics:
+- Total customers: 12,450 (up from 10,890 in Q1 2023, representing 14.3% growth)
+- Enterprise customers (>$100k ARR): 890 (up from 720, representing 23.6% growth)
+- Net revenue retention rate: 118%
+
+The sequential quarter-over-quarter comparison (Q1 2024 vs Q4 2023) shows revenue increased by
+8.2% from $593.4 million to $642.0 million, exceeding our guidance of 6-7% sequential growth.
+
+Cost of Revenue and Gross Margin
+
+Our gross margin for Q1 2024 was 50.0%, compared to 46.3% for Q1 2023, representing a 370 basis
+point improvement. This improvement was driven by:
+- Improved product mix with higher-margin software revenue
+- Operating leverage from infrastructure investments made in 2023
+- Reduced cloud computing costs due to optimization initiatives
+
+Operating Expenses
+
+Total operating expenses increased by $29.2 million, or 13.4%, from $218.6 million in Q1 2023 to
+$247.8 million in Q1 2024. However, as a percentage of revenue, operating expenses decreased from
+39.0% to 38.6%, demonstrating improved operating leverage.
+
+Research and Development: R&D expenses increased by $11.1 million, or 14.2%, primarily due to
+headcount growth of 145 employees in engineering and increased investment in AI model development.
+
+Sales and Marketing: S&M expenses increased by $14.6 million, or 14.9%, reflecting our continued
+investment in go-to-market expansion, particularly in the enterprise segment and international markets.
+
+Cash Flow and Liquidity
+
+Cash flow from operations for Q1 2024 was $68.5 million, compared to $42.1 million in Q1 2023,
+representing a 62.7% increase. This strong cash generation reflects our improved profitability
+and efficient working capital management.
+
+As of March 31, 2024, we had:
+- Cash and cash equivalents: $425.3 million
+- Short-term investments: $180.7 million
+- Total liquidity: $606.0 million
+
+Outlook
+
+For Q2 2024, we expect:
+- Revenue in the range of $665-$680 million (representing 13-16% year-over-year growth)
+- Non-GAAP operating margin of 15-16%
+- Continued investment in product development and international expansion
+
+For the full fiscal year 2024, we are raising our revenue guidance to $2.75-$2.80 billion,
+representing 16-18% year-over-year growth, up from our previous guidance of $2.68-$2.73 billion.
